@@ -6,8 +6,6 @@ description: Projects to bring together governments from around the world and to
 featured_image: 'images/aicoverimage.jpg'
 ---
 
-![](/images/aicoverimage.jpg)
-
 ![]({{site.baseurl}}/images/oecdlogo.png)
 
 Since 2016, I have served as an Innovation Specialist for the [OECD's](http://www.oecd.org) Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)), a global forum for innovation in government. The OECD is a broad international organization with 36 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all. Within the OECD, OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. The projects below are some of my favorites so far.
