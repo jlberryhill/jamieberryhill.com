@@ -6,8 +6,6 @@ description: Projects leading a team to streamline tech governance, promote open
 featured_image: '/images/wh.jpg'
 ---
 
-![](/images/wh.jpg)
-
 ![]({{site.baseurl}}/images/wh.png)
 
 Through 2014-2016, I had the opportunity to serve as the Chief of Policy, Budget, and Communications for the White House Office of the Federal Chief Information Officer ([OFCIO](https://www.whitehouse.gov/omb/management/egov)), part of the Office of Management and Budget ([OMB](https://www.whitehouse.gov/omb)). While in this role, I built a new policy development unit and grew the team, comprised of officials and contractors, to 20 staff members. This team was focused on developing innovative government-wide policies to reform the U.S. government’s $80 billion annual information technology portfolio. The projects below are some of the key successes achieved by the team.
