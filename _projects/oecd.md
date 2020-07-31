@@ -8,7 +8,7 @@ featured_image: 'images/aicoverimage.jpg'
 
 ![]({{site.baseurl}}/images/oecdlogo.png)
 
-Since 2016, I have served as an Innovation Specialist for the [OECD's](http://www.oecd.org) Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)), a global forum for innovation in government. The OECD is a broad international organization with 37 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all. Within the OECD, OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. The projects below are some of my favorites so far.
+Since 2016, I have served as an Innovation Specialist for the [OECD's](http://www.oecd.org) Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)), a global forum for innovation in government. The OECD is a Paris-based international organization with 37 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all. Within the OECD, OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. The projects below are some of my favorites so far.
 
 ![]({{site.baseurl}}/images/covidreport.png)
 
@@ -16,7 +16,7 @@ Since 2016, I have served as an Innovation Specialist for the [OECD's](http://ww
 
 One of my OECD team’s mission objectives is to “uncover emerging practice and identify what’s next.” To help achieve this, I manage an annual project to conduct research and host an open ‘Call for Innovations’ crowdsourcing exercise. In this, we seek to uncover innovative projects and initiatives going on around the world. We analyze these cases and surface key trends, challenges, and success factors in innovation today, as well as examples and stories to illustrate them and recommendations to help support innovation.
 
-We are currently in our fourth annual cycle of work. For 2020, we are issuing five reports on specific trends and focus areas, with the first on on [Innovative Responses to the COVID-19 Crisis](https://trends.oecd-opsi.org/trend-reports/innovative-covid-19-solutions) published in July. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
+We are currently in our fourth annual cycle of work. For 2020, we are issuing five reports on specific trends and focus areas, with the first one on [Innovative Responses to the COVID-19 Crisis](https://trends.oecd-opsi.org/trend-reports/innovative-covid-19-solutions) published in July. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
 
 <a href="https://trends.oecd-opsi.org" class="button button--large">2020 edition</a> <a href="https://trends2019.oecd-opsi.org" class="button button--large">2019 edition</a> <a href="http://www.oecd.org/gov/innovative-government/innovation2018.htm" class="button button--large">2018 edition</a> <a href="http://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-global-trends.htm" class="button button--large">2017 edition</a>
 
@@ -42,10 +42,11 @@ So far, we've created two tech primers: one on [Artificial Intelligence](https:/
 
 ![]({{site.baseurl}}/images/casestudyplatform.png)
 
-## Innovation case study platform
+## Innovation case study platform and COVID-19 response tracker
 
 I'm the overall project manager for the [OPSI website](https://oecd-opsi.org). One of my favorite projects has been leading the development and ongoing iteration of one of OPSI’s lead services: a digital [case study platform](https://oecd-opsi.org/innovations) where innovations can be collected and shared to help disseminate good ideas. Any public sector innovator may submit innovations to the platform and at present there are about 400 cases on the platform, with new cases being added regularly.
 
-Recently, we also built a similar platform as a [COVID-19 Innovative Response Tracker](https://oecd-opsi.org/covid-response) that collects and shares innovative response practices by governments and public interest organizations. Anyone can [submit details](https://oecd-opsi.org/covid-response-form) on a response, which are immediately published on the tracker. 
+Recently, we also built a similar platform as a [COVID-19 Innovative Response Tracker](https://oecd-opsi.org/covid-response) that collects and shares innovative response practices by governments and public interest organizations in hopes that hey can inspire action, enable shared learning, embed
+successes and accelerate change. Anyone can [submit details](https://oecd-opsi.org/covid-response-form) on a response, which are immediately published on the tracker. 
 
 <a href="https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector" class="button button--large">Case study platform</a> <a href="https://oecd-opsi.org/covid-response" class="button button--large">COVID-19 response tracker</a> 
