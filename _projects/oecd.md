@@ -18,7 +18,7 @@ One of my OECD team’s mission objectives is to “uncover emerging practice an
 
 We are currently in our fourth annual cycle of work. For 2020, we are issuing five reports on specific trends and focus areas, with the first one on [Innovative Responses to the COVID-19 Crisis](https://trends.oecd-opsi.org/trend-reports/innovative-covid-19-solutions) published in July. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
 
-<a href="https://trends.oecd-opsi.org" class="button button--large">2020 edition</a> <a href="https://trends2019.oecd-opsi.org" class="button button--large">2019 edition</a> <a href="http://www.oecd.org/gov/innovative-government/innovation2018.htm" class="button button--large">2018 edition</a> <a href="http://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-global-trends.htm" class="button button--large">2017 edition</a>
+<a href="https://trends.oecd-opsi.org" class="button button--large">2020 series</a> <a href="https://trends2019.oecd-opsi.org" class="button button--large">2019 edition</a> <a href="http://www.oecd.org/gov/innovative-government/innovation2018.htm" class="button button--large">2018 edition</a> <a href="http://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-global-trends.htm" class="button button--large">2017 edition</a>
 
 ---
 
@@ -36,7 +36,7 @@ To help public officials navigate this complex terrain, distinguish hype from re
 
 So far, we've created two tech primers: one on [Artificial Intelligence](https://oecd-opsi.org/ai-primer-blog/), and one on [Blockchain](https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector/). You can access each below.
 
-<a href="https://oecd-opsi.org/ai-primer-blog" class="button button--large">AI primer</a> <a href="https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector" class="button button--large">Blockchain primer</a> 
+<a href="https://oe.cd/helloworld" class="button button--large">AI primer (English and Spanish)</a> <a href="https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector" class="button button--large">Blockchain primer</a> 
 
 ---
 
@@ -49,4 +49,4 @@ I'm the overall project manager for the [OPSI website](https://oecd-opsi.org). O
 Recently, we also built a similar platform as a [COVID-19 Innovative Response Tracker](https://oecd-opsi.org/covid-response) that collects and shares innovative response practices by governments and public interest organizations in hopes that hey can inspire action, enable shared learning, embed
 successes and accelerate change. Anyone can [submit details](https://oecd-opsi.org/covid-response-form) on a response, which are immediately published on the tracker. 
 
-<a href="https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector" class="button button--large">Case study platform</a> <a href="https://oecd-opsi.org/covid-response" class="button button--large">COVID-19 response tracker</a> 
+<a href="https://oecd-opsi.org/innovations" class="button button--large">Case study platform</a> <a href="https://oecd-opsi.org/covid-response" class="button button--large">COVID-19 response tracker</a> 
