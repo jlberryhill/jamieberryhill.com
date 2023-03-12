@@ -10,7 +10,7 @@ featured_image: 'images/aicoverimage.jpg'
 
 Since 2016, I have served as an Innovation Specialist for the [OECD's](http://www.oecd.org) Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)), a global forum for innovation in government. The OECD is a Paris-based international organization with 37 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all. Within the OECD, OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. The projects below are some of my favorites so far.
 
-![]({{site.baseurl}}/images/covidreport.png)
+![]({{site.baseurl}}/images/trends23report.jpeg)
 
 ## Tracking global innovation trends
 
@@ -18,7 +18,7 @@ One of my OECD team’s mission objectives is to “uncover emerging practice an
 
 We are currently in our fourth annual cycle of work. For 2020, we are issuing five reports on specific trends and focus areas, with the first one on [Innovative Responses to the COVID-19 Crisis](https://trends.oecd-opsi.org/trend-reports/innovative-covid-19-solutions) published in July. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
 
-<a href="https://trends.oecd-opsi.org" class="button button--large">2020 series</a> <a href="https://trends2019.oecd-opsi.org" class="button button--large">2019 edition</a> <a href="http://www.oecd.org/gov/innovative-government/innovation2018.htm" class="button button--large">2018 edition</a> <a href="http://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-global-trends.htm" class="button button--large">2017 edition</a>
+<a href="https://oe.cd/trends2023" class="button button--large">2023 edition</a> <a href="https://cross-border.oecd-opsi.org" class="button button--large">2021/22 series (focused on cross-border innovation)</a> <a href="https://trends.oecd-opsi.org" class="button button--large">2020 series</a> <a href="https://trends2019.oecd-opsi.org" class="button button--large">2019 edition</a> <a href="http://www.oecd.org/gov/innovative-government/innovation2018.htm" class="button button--large">2018 edition</a> <a href="http://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-global-trends.htm" class="button button--large">2017 edition</a>
 
 ---
 
