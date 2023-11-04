@@ -2,13 +2,19 @@
 title: 'Organisation for Economic Co-operation and Development (OECD)'
 subtitle: 'OECD.AI Policy Observatory<br>Observatory of Public Sector Innovation (OPSI)'
 date: 2020-01-10 00:00:00
-description: Projects to bring together governments from around the world and to work with them to apply new technologies and methods.
+description: Projects to bring together governments from around the world and to work with them to understand apply new technologies and methods.
 featured_image: 'images/aicoverimage.jpg'
 ---
 
 ![]({{site.baseurl}}/images/oecdlogo.png)
 
-Since 2016, I have served as an Innovation Specialist for the [OECD's](http://www.oecd.org) Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)), a global forum for innovation in government. The OECD is a Paris-based international organization with 38 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all. Within the OECD, OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. The projects below are some of my favorites so far.
+Since 2016, I have served as an official at the [OECD](https://oecd.org), a global forum for international collaboration and progress. The OECD is a Paris-based international organization with 38 member countries. Its primary goal is to shape policies that foster prosperity, equality, opportunity, and well-being for all.
+
+I currently serve as a project lead and policy analyst at the [OECD.AI Policy Observatory](https://oecd.ai), a team working with governments to shape public policies for responsible, trustworthy, and beneficial artificial intelligence (AI).
+
+Before this, I worked as an Innovation Specialist for the OECD Observatory of Public Sector Innovation ([OPSI](https://oecd-opsi.org)) ([@OPSIgov](https://twitter.com/OPSIgov)). OPSI works with governments to understand and encourage new approaches to address society’s complex problems by empowering public servants with new insights, knowledge, tools, and connections to help them explore new possibilities. 
+
+The projects below highlight some of my favorite work so far.
 
 ![]({{site.baseurl}}/images/trends23report.jpeg)
 
