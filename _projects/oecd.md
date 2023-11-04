@@ -16,11 +16,24 @@ Before this, I worked as an Innovation Specialist for the OECD Observatory of Pu
 
 The projects below highlight some of my favorite work so far.
 
+![]({{site.baseurl}}/images/oecd-ai-logo.png)
+
+## Artificial intelligence futures
+While AI policy discussions often cover existing AI challenges, the long-term implications of rapidly advancing AI systems remain largely unknown and fiercely debated. Experts raise a wide range of potential future risks from AI, some of which are already manifesting in various ways (e.g., bias, discrimination, surveillance, lack of accountability, job displacement, and mass manipulation). Many experts are concerned about the ability to ensure increasingly general AI systems are safe and aligned with human values, prevent their misuse, and address other negative societal impacts. Future benefits of AI may be just as great, with the potential to address complex issues, improve health and education outcomes, and accelerate scientific progress. 
+
+I jointly (along with the OECD [Strategic Foresight Unit](https://www.oecd.org/strategic-foresight/) lead efforts to help governments address potential challenges and seize benefits by providing them with insights into the possible futures of AI and equipping them with the knowledge and tools necessary to develop forward-looking AI policies. 
+
+A key part of this work has been the building of the OECD Expert Group on AI Futures, a multi-disciplinary group that comprises 60 leading AI and foresight experts from an array of governments, companies, universities, and civil society organizations. 
+
+<a href="https://oecd.ai/en/network-of-experts/ai-futures" class="button button--large">AI Futures workstream</a> <a href="https://oecd.ai/en/network-of-experts/ai-futures/experts" class="button button--large">Expert Group on AI Futures</a> 
+
+---
+
 ![]({{site.baseurl}}/images/trends23report.jpeg)
 
 ## Tracking global innovation trends
 
-One of my OECD team’s mission objectives is to “uncover emerging practice and identify what’s next.” To help achieve this, I manage an annual project to conduct research and host an open ‘Call for Innovations’ crowdsourcing exercise. In this, we seek to uncover innovative projects and initiatives going on around the world. We analyze these cases and surface key trends, challenges, and success factors in innovation today, as well as examples and stories to illustrate them and recommendations to help support innovation.
+One of my OPSI's mission objectives is to “uncover emerging practice and identify what’s next.” To help achieve this, I managed an annual project to conduct research and host an open ‘Call for Innovations’ crowdsourcing exercise. In this, we sought to uncover innovative projects going on around the world. We analyzed these cases and surface key trends, challenges, and success factors in innovation today, as well as examples and stories to illustrate them and recommendations to help support innovation.
 
 We recently launched our [2023 edition](https://oe.cd/trends2023), with trends on algorithmic accountability, integrated and tech-eneabled healthcare, innovative social equity programs, and the evolution of public engagement. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
 
