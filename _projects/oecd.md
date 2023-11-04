@@ -36,7 +36,7 @@ A key part of this work has been the building of the OECD Expert Group on AI Fut
 ## Generative AI
 Generative artificial intelligence (AI) creates new content in response to prompts, offering transformative potential across multiple sectors such as education, entertainment, healthcare and scientific research. However, these technologies also pose critical societal and policy challenges that policy makers must confront: potential shifts in labour markets, copyright uncertainties, and risk associated with the perpetuation of societal biases and the potential for misuse in the creation of disinformation and manipulated content. Consequences could extend to the spreading of mis- and disinformation, perpetuation of discrimination, distortion of public discourse and markets, and the incitement of violence. 
 
-Governments recognise the transformative impact of generative AI and are actively working to address these challenges. The OECD.AI team is working on generative AI as a horizontal project. I had the pleasure of working on our first report on the subject, _Initial policy considerations for generative artificial intelligence_. This report aims to inform these policy considerations and support decision makers in addressing them.
+Governments recognise the transformative impact of generative AI and are actively working to address these challenges. The OECD.AI team is working on generative AI as a horizontal project. I had the pleasure of working on our first report on the subject, [_Initial policy considerations for generative artificial intelligence_](https://www.oecd.org/publications/initial-policy-considerations-for-generative-artificial-intelligence-fae2d1e6-en.htm). This report aims to inform these policy considerations and support decision makers in addressing them.
 
 <a href="https://www.oecd.org/publications/initial-policy-considerations-for-generative-artificial-intelligence-fae2d1e6-en.htm" class="button button--large">Access report</a> 
 
@@ -46,7 +46,7 @@ Governments recognise the transformative impact of generative AI and are activel
 
 ## Tracking global innovation trends
 
-One of my OPSI's mission objectives is to “uncover emerging practice and identify what’s next.” To help achieve this, I managed an annual project to conduct research and host an open ‘Call for Innovations’ crowdsourcing exercise. In this, we sought to uncover innovative projects going on around the world. We analyzed these cases and surface key trends, challenges, and success factors in innovation today, as well as examples and stories to illustrate them and recommendations to help support innovation.
+One of OPSI's mission objectives is to “uncover emerging practice and identify what’s next.” To help achieve this, I managed an annual project to conduct research and host an open ‘Call for Innovations’ crowdsourcing exercise. In this, we sought to uncover innovative projects going on around the world. We analyzed these cases and surface key trends, challenges, and success factors in innovation today, as well as examples and stories to illustrate them and recommendations to help support innovation.
 
 We recently launched our [2023 edition](https://oe.cd/trends2023), with trends on algorithmic accountability, integrated and tech-eneabled healthcare, innovative social equity programs, and the evolution of public engagement. In addition to reports, we develop digital stories to help users better understand these trends and cases. 
 
