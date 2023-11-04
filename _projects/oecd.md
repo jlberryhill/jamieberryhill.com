@@ -16,6 +16,8 @@ Before this, I worked as an Innovation Specialist for the OECD Observatory of Pu
 
 The projects below highlight some of my favorite work so far.
 
+---
+
 ![]({{site.baseurl}}/images/oecd-ai-logo.png)
 
 ## Artificial intelligence futures
@@ -29,7 +31,18 @@ A key part of this work has been the building of the OECD Expert Group on AI Fut
 
 ---
 
-![]({{site.baseurl}}/images/trends23report.jpeg)
+![]({{site.baseurl}}/images/genai-report.png)
+
+## Generative AI
+Generative artificial intelligence (AI) creates new content in response to prompts, offering transformative potential across multiple sectors such as education, entertainment, healthcare and scientific research. However, these technologies also pose critical societal and policy challenges that policy makers must confront: potential shifts in labour markets, copyright uncertainties, and risk associated with the perpetuation of societal biases and the potential for misuse in the creation of disinformation and manipulated content. Consequences could extend to the spreading of mis- and disinformation, perpetuation of discrimination, distortion of public discourse and markets, and the incitement of violence. 
+
+Governments recognise the transformative impact of generative AI and are actively working to address these challenges. The OECD.AI team is working on generative AI as a horizontal project. I had the pleasure of working on our first report on the subject, _Initial policy considerations for generative artificial intelligence_. This report aims to inform these policy considerations and support decision makers in addressing them.
+
+<a href="https://www.oecd.org/publications/initial-policy-considerations-for-generative-artificial-intelligence-fae2d1e6-en.htm" class="button button--large">Access report</a> 
+
+---
+
+![]({{site.baseurl}}/images/trends23reportb.png)
 
 ## Tracking global innovation trends
 
