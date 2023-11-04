@@ -1,6 +1,6 @@
 ---
 title: 'Organisation for Economic Co-operation and Development (OECD)'
-subtitle: 'Observatory of Public Sector Innovation (OPSI)'
+subtitle: 'OECD.AI Policy Observatory<br>Observatory of Public Sector Innovation (OPSI)'
 date: 2020-01-10 00:00:00
 description: Projects to bring together governments from around the world and to work with them to apply new technologies and methods.
 featured_image: 'images/aicoverimage.jpg'
