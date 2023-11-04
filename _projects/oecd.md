@@ -66,7 +66,7 @@ To help public officials navigate this complex terrain, distinguish hype from re
 * Surface implications and provide recommendations to government.
 * Illustrate key practices and initiatives through case studies.
 
-So far, we've created two tech primers: one on [Artificial Intelligence](https://oecd-opsi.org/ai-primer-blog/), and one on [Blockchain](https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector/). You can access each below.
+We created two tech primers: one on [Artificial Intelligence](https://oecd-opsi.org/ai-primer-blog/), and one on [Blockchain](https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector/). You can access each below.
 
 <a href="https://oe.cd/helloworld" class="button button--large">AI primer (English and Spanish)</a> <a href="https://oecd-opsi.org/new-opsi-guide-to-blockchain-in-the-public-sector" class="button button--large">Blockchain primer</a> 
 
@@ -74,11 +74,8 @@ So far, we've created two tech primers: one on [Artificial Intelligence](https:/
 
 ![]({{site.baseurl}}/images/casestudyplatform.png)
 
-## Innovation case study platform and COVID-19 response tracker
+## Innovation case study library
 
-I'm the overall project manager for the [OPSI website](https://oecd-opsi.org). One of my favorite projects has been leading the development and ongoing iteration of one of OPSI’s lead services: a digital [case study platform](https://oecd-opsi.org/innovations) where innovations can be collected and shared to help disseminate good ideas. Any public sector innovator may submit innovations to the platform and at present there are about 400 cases on the platform, with new cases being added regularly.
+I was the overall project manager for the [OPSI website](https://oecd-opsi.org). One of my favorite projects has been leading the development and iteration of one of OPSI’s lead services: a digital [case study platform](https://oecd-opsi.org/innovations) where innovations can be collected and shared to help disseminate good ideas. Any public sector innovator may submit innovations to the platform and at present there are over 800 cases on the platform, with new cases being added regularly.
 
-Recently, we also built a similar platform as a [COVID-19 Innovative Response Tracker](https://oecd-opsi.org/covid-response) that collects and shares innovative response practices by governments and public interest organizations in hopes that hey can inspire action, enable shared learning, embed
-successes and accelerate change. Anyone can [submit details](https://oecd-opsi.org/covid-response-form) on a response, which are immediately published on the tracker. 
-
-<a href="https://oecd-opsi.org/innovations" class="button button--large">Case study platform</a> <a href="https://oecd-opsi.org/covid-response" class="button button--large">COVID-19 response tracker</a> 
+<a href="https://oecd-opsi.org/innovations" class="button button--large">Case study platform</a>
