@@ -3,10 +3,10 @@ title: 'Government Accountability Office (GAO)'
 subtitle: 'Forensic Audits and Investigative Service (FAIS)'
 date: 2020-01-08 00:00:00
 description: Working for the "congressional watchdog" to conduct forensic audits and investigations of fraud, waste, and abuse in federal government programs, as well as reviews of program efficiency and effectiveness.
-featured_image: 'images/capitol.png'
+featured_image: 'images/capitol.jpg'
 ---
 
-![]({{site.baseurl}}/images/capitol.jpg)
+![]({{site.baseurl}}/images/gao.jpg)
 
 My five years at the [US GAO](https://gao.gov) were foundational for my future work. I served on the Forensic Audits in Investigative Service ([FAIS](https://www.legalexecutiveinstitute.com/gao-investigative-forensics)) team, which is primarily dedicated to using innovative data collection and analysis techniques to identify fraud, waste, and abuse in government programs. The team was also charged with identifying internal control failures and gaps and making recommendations to executive branch agencies to prevent future abuse and recoup lost money and resources. Some of my favorite engagements that I worked on are described below.
 
