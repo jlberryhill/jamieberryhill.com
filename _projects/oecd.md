@@ -1,6 +1,6 @@
 ---
 title: 'Organisation for Economic Co-operation and Development (OECD)'
-subtitle: 'OECD.AI Policy Observatory<br>Observatory of Public Sector Innovation (OPSI)'
+subtitle: 'Innovative, Digital, and Open Government (INDIGO)<br>OECD.AI Policy Observatory'
 date: 2020-01-10 00:00:00
 description: Projects to bring together governments from around the world and to work with them to understand apply new technologies and methods.
 featured_image: 'images/aicoverimage.jpg'
@@ -18,14 +18,25 @@ The projects below highlight some of my favorite work so far.
 
 ---
 
+![]({{site.baseurl}}/images/gwaicover.png)
+
+## Governing with Artificial Intelligence
+AI is one of the most transformative forces of the 21st century, becoming an integral part of digital government worldwide. Governments’ use of AI can facilitate automated and tailored internal processes and public services; foster better decision making and forecasting; improve fraud detection; and improve public servants’ job quality and learning — with tangible impacts. This report explores 200 real‑world examples of how governments are using AI across 11 core functions — from delivering public services and administering justice to fighting corruption, managing finances, and reforming the civil service. It highlights the unique opportunities and risks AI presents in government, delves into the challenges governments face when adopting these technologies, and offers insights into the enablers, safeguards, and engagement strategies needed to ensure AI is used in a trustworthy and effective way
+
+I was a lead author for certain chapters and contributed to the others. I also served as the overall project manager, collaborating with subject matter expert authors from across the OECD and integrating their cntributions into a unified narrative.
+
+<a href="https://oe.cd/gov-ai-report" class="button button--large">Access report</a> <a href="https://oecd.ai/gov" class="button button--large">AI in Government hub</a> 
+
+---
+
 ![]({{site.baseurl}}/images/oecd-ai-logo.png)
 
 ## Artificial intelligence futures
 While AI policy discussions often cover existing AI challenges, the long-term implications of rapidly advancing AI systems remain largely unknown and fiercely debated. Experts raise a wide range of potential future risks from AI, some of which are already manifesting in various ways (e.g., bias, discrimination, surveillance, lack of accountability, job displacement, and mass manipulation). Many experts are concerned about the ability to ensure increasingly general AI systems are safe and aligned with human values, prevent their misuse, and address other negative societal impacts. Future benefits of AI may be just as great, with the potential to address complex issues, improve health and education outcomes, and accelerate scientific progress. 
 
-I jointly (along with the OECD [Strategic Foresight Unit](https://www.oecd.org/strategic-foresight/)) lead efforts to help governments address potential challenges and seize benefits by providing them with insights into the possible futures of AI and equipping them with the knowledge and tools necessary to develop forward-looking AI policies. 
+I jointly (along with the OECD [Strategic Foresight Unit](https://www.oecd.org/strategic-foresight/)) led efforts to help governments address potential challenges and seize benefits by providing them with insights into the possible futures of AI and equipping them with the knowledge and tools necessary to develop forward-looking AI policies. 
 
-A key part of this work has been the building of the OECD Expert Group on AI Futures, a multi-disciplinary group that comprises 60 leading AI and foresight experts from an array of governments, companies, universities, and civil society organizations. 
+A key part of this work was  building  the OECD Expert Group on AI Futures, a multi-disciplinary group that comprises 60 leading AI and foresight experts from an array of governments, companies, universities, and civil society organizations. 
 
 <a href="https://oecd.ai/en/network-of-experts/ai-futures" class="button button--large">AI Futures workstream</a> <a href="https://oecd.ai/en/network-of-experts/ai-futures/experts" class="button button--large">Expert Group on AI Futures</a> 
 
